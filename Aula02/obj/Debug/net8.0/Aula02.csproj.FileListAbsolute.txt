@@ -1,0 +1,15 @@
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\bin\Debug\net8.0\Aula02.exe
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\bin\Debug\net8.0\Aula02.deps.json
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\bin\Debug\net8.0\Aula02.runtimeconfig.json
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\bin\Debug\net8.0\Aula02.dll
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\bin\Debug\net8.0\Aula02.pdb
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\obj\Debug\net8.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfoInputs.cache
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfo.cs
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\obj\Debug\net8.0\Aula02.csproj.CoreCompileInputs.cache
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\obj\Debug\net8.0\Aula02.sourcelink.json
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\obj\Debug\net8.0\Aula02.dll
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\obj\Debug\net8.0\refint\Aula02.dll
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\obj\Debug\net8.0\Aula02.pdb
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\obj\Debug\net8.0\Aula02.genruntimeconfig.cache
+c:\Users\PICHAU\Desktop\Programação\CFBCursos\C#\Aulas\Aula02\obj\Debug\net8.0\ref\Aula02.dll
